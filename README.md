@@ -1,0 +1,13 @@
+# Atlassian Add-on using Express
+
+
+## Todo
+1. to see how the more recent node app handles routing
+1. to activate debugger
+
+Congratulations! You've successfully created an Atlassian Connect Add-on using the Express web application framework.
+
+## What's next?
+
+[Read the docs](https://bitbucket.org/atlassian/atlassian-connect-express/src/master/README.md#markdown-header-install-dependencies).
+
